@@ -141,3 +141,34 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Local history
+.history/
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# Temporary files
+*.tmp
+*.temp
